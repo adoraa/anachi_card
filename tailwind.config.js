@@ -2,7 +2,14 @@
 module.exports = {
   content: ["./**/*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'clouds': 'url("images/svg/endless-clouds.svg")'
+      },
+      fontFamily: {
+        'play': ['Playwrite DE Grund']
+      }
+    },
   },
   plugins: [],
 }

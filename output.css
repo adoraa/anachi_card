@@ -1795,6 +1795,10 @@ video {
   background-color: rgb(255 0 0 / var(--tw-bg-opacity));
 }
 
+.bg-clouds{
+  background-image: url("images/svg/endless-clouds.svg");
+}
+
 .decoration-slice{
   -webkit-box-decoration-break: slice;
           box-decoration-break: slice;
@@ -1974,6 +1978,10 @@ video {
 
 .align-super{
   vertical-align: super;
+}
+
+.font-play{
+  font-family: Playwrite DE Grund;
 }
 
 .font-bold{
