@@ -3,3 +3,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.btn{
+    @apply rounded-full py-2 px-3 uppercase text-xs font-bold cursor-pointer tracking-wider hover:shadow-inner transform hover:scale-105 hover:bg-opacity-50 transition ease-out duration-300
+}
+
+.soon{
+    @apply rounded-full py-2 px-3 uppercase text-6xl font-bold cursor-pointer tracking-wider hover:shadow-inner
+}

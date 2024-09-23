@@ -8,6 +8,11 @@ module.exports = {
       },
       fontFamily: {
         'play': ['Playwrite DE Grund']
+      },
+      colors: {
+        primary: {
+          '100': '#3C194B',
+        }
       }
     },
   },
