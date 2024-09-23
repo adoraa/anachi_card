@@ -9,5 +9,5 @@
 }
 
 .soon{
-    @apply rounded-full py-2 px-3 uppercase text-6xl font-bold cursor-pointer tracking-wider hover:shadow-inner
+    @apply rounded-full py-2 px-3 uppercase text-2xl font-bold cursor-pointer tracking-wider hover:shadow-inner
 }
